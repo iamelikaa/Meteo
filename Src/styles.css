@@ -1,3 +1,15 @@
 body {
   background-color: #f9f7fe;
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.weather_app {
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin: 50px auto;
+  max-width: 600px;
 }
