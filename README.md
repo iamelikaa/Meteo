@@ -10,7 +10,7 @@
 
 ## Usage
 
-Experience the app live: [Meteo on Netlify](https://meteobymelika.netlify.app/)
+Experience the app live: <a href="https://meteobymelika.netlify.app/" target="_blank">Meteo on Netlify</a>
 
 1. Enter a location to view current weather data and forecasts.
 2. Allow location access (optional) for automatic weather updates.
