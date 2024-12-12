@@ -85,6 +85,11 @@ main {
   margin-top: 6px;
   font-size: 28px;
 }
+
+.weather-forecast-date {
+  text-align: center;
+}
+
 header {
   border-bottom: 1px solid #f9f7fe;
   padding: 0 0 30px 0;
